@@ -1,0 +1,90 @@
+/* 
+
+    #3454f5
+    #F4F7FE
+
+*/
+
+body {
+    font-family: 'El Messiri', sans-serif;
+    background: #F4F7FE !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+nav.navbar {
+    background-color: #8095ff !important;
+    
+}
+
+nav.navbar a {
+    color: #F4F7FE !important;
+}
+
+.messages-page .card-header {
+ background-color: #fff;
+}
+
+.messages-page p.bg-light {
+   background: #F4F7FE !important; 
+   font-size: 14px;
+}
+
+.section {
+    margin: 40px 0;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #01cf6b;
+    border-color: #01cf6b;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #fa292e;
+    border-color: #fa292e;
+}
+
+.messages-card .card-body {
+    height: 483px;
+    overflow-y: scroll;
+}
+
+.messages-card .date {
+    font-size: 12px;
+    color: #777;
+}
+
+.messages-page #copy-text {
+    cursor: pointer;
+}
+
+form#login,
+form#register {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
+.card-img label {
+    font-size: 14px;
+    background-color: #8095ff;
+    color: #fff;
+    padding: 10px 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
